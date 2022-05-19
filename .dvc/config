@@ -1,0 +1,4 @@
+[core]
+    remote = global
+['remote "global"']
+    url = gdrive://1v-vb4aeicbljUIDCdkcCv0xojzArzBol
